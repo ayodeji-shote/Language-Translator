@@ -1,0 +1,25 @@
+Q1: Why should the fields be private?
+A: So they can be accessed only from within the class. 
+
+Q2:Why should we make these methods public 
+A: So they can be accessed from different objects. 
+
+Q3: Should a Class have only one 'constructor'?
+It is better to have more than one, as it allows to set default values. 
+
+Q4: What does a Java 'compiler' do?
+A It processes the Java code into machine code. 
+
+Q5: Can you justify the choices that you have made for the return type and input parameters (in any) for the method?
+A: I chose the return type "void", and i chose this return type due to the fact that there no reason to put any other return type other than void
+because the code is not giving you any information. You only have a string, an int and two doubles 
+
+Q6: 6 What change(s) would you need to make to your DVD class to allow the user to set the values of
+the fields separately, one at a time, instead of all together at once?
+A; You put the fields in different methods. 
+
+
+
+Q7:what is the difference between a class and an object? 
+A: A class is a blue print for an object that describes the states an behavior, but an object is an instance 
+of a class.

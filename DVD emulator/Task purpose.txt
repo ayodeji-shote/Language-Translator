@@ -1,0 +1,6 @@
+The task was to create a program to store information about a collection of DVDs using two classes, one
+class to store details about an individual DVD and the other class to manage a collection of DVDs. The
+DVD class should contain at least the fields; title of the DVD, the director, the running time in minutes
+and the purchase cost. There should be methods to set and display the DVD fields. The second class
+should contain a collection (a few objects) of all of your DVDs with methods to set DVD details, display
+your entire collection and to search for a specific DVD in your collection based on its title.
