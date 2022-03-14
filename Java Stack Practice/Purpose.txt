@@ -1,0 +1,1 @@
+The aim of this project was to create a program that uses stack data from first principles meaning that it should be programmed from scratch.

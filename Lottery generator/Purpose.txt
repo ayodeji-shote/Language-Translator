@@ -1,0 +1,2 @@
+The aim of this project is to learn how to design and code a program that allows you to ‘play’ a lottery
+game using the Set interface from the Java collection classes (java.util.Set)

@@ -1,0 +1,4 @@
+java -jar "C:\Users\ayode\eclipse-workspace\week7Assigment.jar"
+
+
+PAUSE
